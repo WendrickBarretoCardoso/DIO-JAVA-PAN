@@ -13,7 +13,7 @@ Nesse Curso Aprenderemos:
     3. Estruturas de Repetição
     4. Estruturas de Dados
 
-    Nele também faremos os seguintes **Desafios**:
+    Nele também faremos os seguintes Desafios:
     
     1. Fábrica de Carros
     2. Imprimindo Positivos e Média
@@ -21,7 +21,7 @@ Nesse Curso Aprenderemos:
     4. Desafio Dragão
     5. Fibonacci Fácil
 
-2. Segundo Módulo: POO
+2.Segundo Módulo: POO
 
     1. POO
     2. Collections
@@ -34,7 +34,7 @@ Nesse Curso Aprenderemos:
 
     1. Abstraindo um Bootcamo Usando Orientação a Objetos em Java
 
-3. Terceiro Módulo: Banco de Dados SQL e NoSQL
+3.Terceiro Módulo: Banco de Dados SQL e NoSQL
 
     1. Primeiros Passos com SQL
     2. Introdução ao MongoDB e Bancos de Dados NoSQL
@@ -43,7 +43,7 @@ Nesse Curso Aprenderemos:
 
     1. Boas Práticas com DynamoDB
 
-4. Quarto Módulo: Produtividade com Spring Framework
+4.Quarto Módulo: Produtividade com Spring Framework
 
     1. Principais Protocolos de Comunicação Internet
     2. Spring Boot
@@ -56,7 +56,7 @@ Nesse Curso Aprenderemos:
 
     1. Padrões de Projetos
 
-5. Quinto Módulo: Desafios Finais para Prática
+5.Quinto Módulo: Desafios Finais para Prática
     
     1. Animal
     2. Quintando do Seu Zé
