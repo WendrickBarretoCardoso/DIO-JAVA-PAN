@@ -1,5 +1,7 @@
 # DIO - Banco PAN Java Developer
 
+[![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+
 ## Repositório de estudos do Curso *"Banco PAN Java Developer"*
 
 ## Curso que visa ensina a trilha em **Java Spring Boot**.
