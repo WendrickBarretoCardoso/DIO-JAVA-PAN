@@ -8,8 +8,8 @@ Nesse Curso Aprenderemos:
 
 1.Primeiro Módulo:  Base do Java
 
-    1. Sintaxe do Java
-    2. Lógica Condicional e Controle de Fluxos
+    1. Sintaxe do Java   :white_check_mark:
+    2. Lógica Condicional e Controle de Fluxos    :pencil2:
     3. Estruturas de Repetição
     4. Estruturas de Dados
 
