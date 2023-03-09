@@ -7,5 +7,7 @@ public class person {
         personId.changeName("Wendrick Barreto Cardoso");
         password = personId.getPassword("Wendrick", 21);
         password2 = personId.getPassword("Wendrick Barreto Cardoso", 21);
+
+        password = password + password2;
     }
 }
